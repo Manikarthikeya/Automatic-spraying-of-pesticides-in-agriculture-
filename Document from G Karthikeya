@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": "import random\nimport time\nclass Pesticide System:\n def _int_(self, total plants)\n     self total plants = total plants\n     self treated plants = 0\n     self pest detected = False\n     self pesticides prayer = False\n\n\n   def detect-pest (self):\n    self  pest detected = random choice([True, False])\n  print(\"Spraying pesticides on plant...\")\n   Time Sleep(2)  # Simulate the time it takes to spray pesticides\n print(\"Pesticides sprayed on plant.\")\nSelf pesticide sprayer = False\n self treated plants += 1\n def run system(self):\n try:\n while self treated plants < self total plants:\n   self detect pest()\n if self pest detected and not self pesticide sprayer:\n print(\"Pest detected on plant. Activating pesticide sprayer.\")\nSelf pesticide sprayer = True\nself spray pesticide()\n  else:\n print(\"No pests detected on plant. System idle.\") \n time sleep(1)  # Pause for a moment before the next iteration\n print( {self total plants} plants treated. Exiting pesticide system.\")\n except Keyboard Interrupt:\n print(\"Exiting pesticide system.\")\nif _name_ == \"_main_\":\n Pesticide system = Pesticide System(total plants=5)  # Set the total number of plants\n   Pesticide system run system()  \n\n:;     ",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    }
+  ]
+}
